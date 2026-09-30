@@ -13,7 +13,7 @@ window.CONFIG = {
 
   currency: "AED",
   deliveryNote: "Delivery across the UAE. Made to order in 3–5 days.",
-  paymentNote: "Cash on delivery or bank transfer (details shared on WhatsApp).",
+  paymentNote: "Cash on delivery, bank transfer or PayPal (details shared on WhatsApp).",
 
   // License credit (required by the INFINITY 3D PRINTS commercial license).
   // Do not remove.
