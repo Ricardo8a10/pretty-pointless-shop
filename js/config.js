@@ -141,17 +141,6 @@ window.PRODUCTS = [
     image: "assets/products/killer-doll-soap.webp",
     imageAlt: "Freckled doll in overalls soap holder"
   },
-  {  // source: Patreon post 167944419: CHUCKY FULL FIGURE
-    id: "killer-doll-figure",
-    name: "Killer Doll Figure",
-    price: 90,
-    categories: ["Halloween", "Figures"],
-    badge: "Spooky",
-    description: "The freckled troublemaker doll as a full figure, knife and all. A horror-fan favourite.",
-    colors: ["As shown", "Custom on request"],
-    image: "assets/products/killer-doll-figure.webp",
-    imageAlt: "Freckled doll figure in overalls"
-  },
   {  // source: Patreon post 163830203: JASON BBW FOAMING SOAP HOLDER
     id: "hockey-mask-slasher-soap",
     name: "Hockey Mask Slasher Soap Holder",
@@ -162,17 +151,6 @@ window.PRODUCTS = [
     colors: ["As shown", "Custom on request"],
     image: "assets/products/hockey-mask-slasher-soap.webp",
     imageAlt: "Chibi hockey mask slasher soap holder"
-  },
-  {  // source: Patreon post 166717144: JASON FULL FIGURE
-    id: "hockey-mask-slasher-figure",
-    name: "Hockey Mask Slasher Figure",
-    price: 90,
-    categories: ["Halloween", "Figures"],
-    badge: "Spooky",
-    description: "The hockey-masked camp counsellor's worst nightmare, in adorable full-figure form.",
-    colors: ["As shown", "Custom on request"],
-    image: "assets/products/hockey-mask-slasher-figure.webp",
-    imageAlt: "Chibi hockey mask slasher figure"
   },
   {  // source: Patreon post 163273130: MICHAEL MYERS BBW FOAMING SOAP HOLDER
     id: "masked-stalker-soap",
@@ -185,17 +163,6 @@ window.PRODUCTS = [
     image: "assets/products/masked-stalker-soap.webp",
     imageAlt: "Pale masked figure in blue overalls soap holder"
   },
-  {  // source: Patreon post 165770940: MICHAEL MYERS FULL FIGURE
-    id: "masked-stalker-figure",
-    name: "Masked Stalker Figure",
-    price: 90,
-    categories: ["Halloween", "Figures"],
-    badge: "Spooky",
-    description: "The pale-masked stalker as a chibi full figure. Spooky season essential.",
-    colors: ["As shown", "Custom on request"],
-    image: "assets/products/masked-stalker-figure.webp",
-    imageAlt: "Pale masked stalker chibi figure"
-  },
   {  // source: Patreon post 164218508: FREDDY BBW FOAMING SOAP HOLDER
     id: "dream-stalker-soap",
     name: "Dream Stalker Soap Holder",
@@ -206,17 +173,6 @@ window.PRODUCTS = [
     colors: ["As shown", "Custom on request"],
     image: "assets/products/dream-stalker-soap.webp",
     imageAlt: "Chibi figure in striped sweater and hat soap holder"
-  },
-  {  // source: Patreon post 167394613: FREDDY FULL FIGURE
-    id: "dream-stalker-figure",
-    name: "Dream Stalker Figure",
-    price: 90,
-    categories: ["Halloween", "Figures"],
-    badge: "Spooky",
-    description: "The striped-sweater nightmare man as a chibi full figure.",
-    colors: ["As shown", "Custom on request"],
-    image: "assets/products/dream-stalker-figure.webp",
-    imageAlt: "Chibi figure in striped sweater and hat"
   },
   {  // source: Patreon post 162971201: GHOST FACE BBW FOAMING SOAP HOLDER
     id: "screaming-mask-soap",
@@ -229,17 +185,6 @@ window.PRODUCTS = [
     image: "assets/products/screaming-mask-soap.webp",
     imageAlt: "Screaming ghost mask soap holder"
   },
-  {  // source: Patreon post 165189379: FULL FIGURE (ghost mask)
-    id: "screaming-mask-figure",
-    name: "Screaming Mask Figure",
-    price: 90,
-    categories: ["Halloween", "Figures"],
-    badge: "Spooky",
-    description: "The screaming ghost mask as a chibi full figure. Answer the phone at your own risk.",
-    colors: ["As shown", "Custom on request"],
-    image: "assets/products/screaming-mask-figure.webp",
-    imageAlt: "Chibi screaming ghost mask figure"
-  },
   {  // source: Patreon post 165598550: ART THE CLOWN BBW FOAMING SOAP HOLDER
     id: "creepy-clown-soap",
     name: "Creepy Clown Soap Holder",
@@ -250,17 +195,6 @@ window.PRODUCTS = [
     colors: ["As shown", "Custom on request"],
     image: "assets/products/creepy-clown-soap.webp",
     imageAlt: "Black and white creepy clown soap holder"
-  },
-  {  // source: Patreon post 169563867: ART THE CLOWN FULL FIGURE
-    id: "creepy-clown-figure",
-    name: "Creepy Clown Figure",
-    price: 95,
-    categories: ["Halloween", "Figures"],
-    badge: "Spooky",
-    description: "The black-and-white creepy clown as a full figure, saw in hand. Maximum horror, minimum size.",
-    colors: ["As shown", "Custom on request"],
-    image: "assets/products/creepy-clown-figure.webp",
-    imageAlt: "Black and white creepy clown figure"
   },
   {  // source: Patreon post 170022361: BILLY THE PUPPET BBW FOAMING SOAP HOLDER
     id: "creepy-puppet-soap",
@@ -283,17 +217,6 @@ window.PRODUCTS = [
     colors: ["As shown", "Custom on request"],
     image: "assets/products/gothic-girl-soap.webp",
     imageAlt: "Girl with black braids beside a tombstone soap holder"
-  },
-  {  // source: Patreon post 169664740: WEDNESDAY ADDAMS FULL FIGURE
-    id: "gothic-girl-figure",
-    name: "Gothic Schoolgirl Figure",
-    price: 90,
-    categories: ["Halloween", "Figures"],
-    badge: "NEW",
-    description: "The deadpan girl with black braids as a full figure. Perfect for fans of all things dark.",
-    colors: ["As shown", "Custom on request"],
-    image: "assets/products/gothic-girl-figure.webp",
-    imageAlt: "Girl with black braids figure"
   },
   {  // source: Patreon post 168064552: SAM BBW FOAMING SOAP HOLDER
     id: "sack-head-trick-or-treater-soap",
@@ -371,17 +294,6 @@ window.PRODUCTS = [
     description: "Santa with a bit of attitude, for anyone whose Christmas spirit comes with an edge. Fits Bath & Body Works foaming soap bottles.",
     colors: ["Red & Black", "White", "Lilac"],
     image: "assets/products/bad-to-the-bone-santa-soap.webp"
-  },
-  {  // source: Patreon post 169009507: THE GRINCH FULL FIGURE
-    id: "grumpy-green-santa-figure",
-    name: "Grumpy Green Santa Figure",
-    price: 95,
-    categories: ["Christmas", "Figures"],
-    badge: "NEW",
-    description: "The mischievous green grump in his fluffy Santa suit, as a full figure for your mantel.",
-    colors: ["As shown", "Custom on request"],
-    image: "assets/products/grumpy-green-santa-figure.webp",
-    imageAlt: "Green grump figure in a Santa suit"
   },
   {  // source: Patreon post 170563991: RALPHIE CANDLE HOLDER
     id: "bunny-suit-kid-candle",
@@ -464,5 +376,93 @@ window.PRODUCTS_LATER = [
     description: "Turns any of our soap holders into a candle holder, so one design works two ways. Add it to any soap holder order.",
     colors: ["White", "Black", "Gold"],
     image: ""
+  },
+  {  // source: Patreon post 167944419: CHUCKY FULL FIGURE
+    id: "killer-doll-figure",
+    name: "Killer Doll Figure",
+    price: 90,
+    categories: ["Halloween", "Figures"],
+    badge: "Spooky",
+    description: "The freckled troublemaker doll as a full figure, knife and all. A horror-fan favourite.",
+    colors: ["As shown", "Custom on request"],
+    image: "assets/products/killer-doll-figure.webp",
+    imageAlt: "Freckled doll figure in overalls"
+  },
+  {  // source: Patreon post 166717144: JASON FULL FIGURE
+    id: "hockey-mask-slasher-figure",
+    name: "Hockey Mask Slasher Figure",
+    price: 90,
+    categories: ["Halloween", "Figures"],
+    badge: "Spooky",
+    description: "The hockey-masked camp counsellor's worst nightmare, in adorable full-figure form.",
+    colors: ["As shown", "Custom on request"],
+    image: "assets/products/hockey-mask-slasher-figure.webp",
+    imageAlt: "Chibi hockey mask slasher figure"
+  },
+  {  // source: Patreon post 165770940: MICHAEL MYERS FULL FIGURE
+    id: "masked-stalker-figure",
+    name: "Masked Stalker Figure",
+    price: 90,
+    categories: ["Halloween", "Figures"],
+    badge: "Spooky",
+    description: "The pale-masked stalker as a chibi full figure. Spooky season essential.",
+    colors: ["As shown", "Custom on request"],
+    image: "assets/products/masked-stalker-figure.webp",
+    imageAlt: "Pale masked stalker chibi figure"
+  },
+  {  // source: Patreon post 167394613: FREDDY FULL FIGURE
+    id: "dream-stalker-figure",
+    name: "Dream Stalker Figure",
+    price: 90,
+    categories: ["Halloween", "Figures"],
+    badge: "Spooky",
+    description: "The striped-sweater nightmare man as a chibi full figure.",
+    colors: ["As shown", "Custom on request"],
+    image: "assets/products/dream-stalker-figure.webp",
+    imageAlt: "Chibi figure in striped sweater and hat"
+  },
+  {  // source: Patreon post 165189379: FULL FIGURE (ghost mask)
+    id: "screaming-mask-figure",
+    name: "Screaming Mask Figure",
+    price: 90,
+    categories: ["Halloween", "Figures"],
+    badge: "Spooky",
+    description: "The screaming ghost mask as a chibi full figure. Answer the phone at your own risk.",
+    colors: ["As shown", "Custom on request"],
+    image: "assets/products/screaming-mask-figure.webp",
+    imageAlt: "Chibi screaming ghost mask figure"
+  },
+  {  // source: Patreon post 169563867: ART THE CLOWN FULL FIGURE
+    id: "creepy-clown-figure",
+    name: "Creepy Clown Figure",
+    price: 95,
+    categories: ["Halloween", "Figures"],
+    badge: "Spooky",
+    description: "The black-and-white creepy clown as a full figure, saw in hand. Maximum horror, minimum size.",
+    colors: ["As shown", "Custom on request"],
+    image: "assets/products/creepy-clown-figure.webp",
+    imageAlt: "Black and white creepy clown figure"
+  },
+  {  // source: Patreon post 169664740: WEDNESDAY ADDAMS FULL FIGURE
+    id: "gothic-girl-figure",
+    name: "Gothic Schoolgirl Figure",
+    price: 90,
+    categories: ["Halloween", "Figures"],
+    badge: "NEW",
+    description: "The deadpan girl with black braids as a full figure. Perfect for fans of all things dark.",
+    colors: ["As shown", "Custom on request"],
+    image: "assets/products/gothic-girl-figure.webp",
+    imageAlt: "Girl with black braids figure"
+  },
+  {  // source: Patreon post 169009507: THE GRINCH FULL FIGURE
+    id: "grumpy-green-santa-figure",
+    name: "Grumpy Green Santa Figure",
+    price: 95,
+    categories: ["Christmas", "Figures"],
+    badge: "NEW",
+    description: "The mischievous green grump in his fluffy Santa suit, as a full figure for your mantel.",
+    colors: ["As shown", "Custom on request"],
+    image: "assets/products/grumpy-green-santa-figure.webp",
+    imageAlt: "Green grump figure in a Santa suit"
   }
 ];
