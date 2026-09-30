@@ -90,16 +90,6 @@ window.PRODUCTS = [
     image: "assets/products/scarecrow-soap.webp"
   },
   {
-    id: "spicy-gus-figure",
-    name: "Spicy Gus the Ghost Figure",
-    price: 85,
-    categories: ["Halloween", "Figures"],
-    badge: "Spooky",
-    description: "Gus is a ghost with big personality and a bit of spice. A shelf-sized figure that brings good boos all year.",
-    colors: ["White", "Pastel Pink", "Mint"],
-    image: "assets/products/spicy-gus-figure.webp"
-  },
-  {
     id: "spicy-gus-soap",
     name: "Spicy Gus the Ghost Soap Holder",
     price: 65,
