@@ -51,7 +51,7 @@ window.PRODUCTS = [
   {
     id: "spooky-hands-candle",
     name: "Spooky Hands Candle Holder",
-    price: 220,
+    price: 185,
     categories: ["Halloween"],
     badge: "NEW",
     description: "Two spooky hands raise a glowing candle on a swirly black base with a carved pumpkin. A showstopper for your Halloween table. Fits Bath & Body Works 3-wick candles (tested).",
@@ -112,7 +112,7 @@ window.PRODUCTS = [
   {
     id: "ghoul-candy-holder",
     name: "Ghoul Life-Size Candy Holder",
-    price: 220,
+    price: 185,
     categories: ["Halloween", "Home Decor"],
     badge: "Big one",
     description: "A seriously big ghoul that holds the treats at your door. The statement piece your Halloween party needs.",
