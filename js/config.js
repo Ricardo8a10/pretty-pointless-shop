@@ -51,7 +51,7 @@ window.PRODUCTS = [
   {
     id: "spooky-hands-candle",
     name: "Spooky Hands Candle Holder",
-    price: 150,
+    price: 220,
     categories: ["Halloween"],
     badge: "NEW",
     description: "Two spooky hands raise a glowing candle on a swirly black base with a carved pumpkin. A showstopper for your Halloween table. Fits Bath & Body Works 3-wick candles (tested).",
@@ -62,7 +62,7 @@ window.PRODUCTS = [
   {
     id: "grim-sprite-soap",
     name: "Grim Sprite Foaming Soap Holder",
-    price: 65,
+    price: 85,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A cute little reaper keeps watch over your sink. More adorable than scary, promise. Fits Bath & Body Works foaming soap bottles.",
@@ -72,7 +72,7 @@ window.PRODUCTS = [
   {
     id: "boss-sprite-soap",
     name: "Boss Sprite Foaming Soap Holder",
-    price: 65,
+    price: 85,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "The sprite in charge of the bathroom. Bold, cheeky, and ready for spooky season. Fits Bath & Body Works foaming soap bottles.",
@@ -82,7 +82,7 @@ window.PRODUCTS = [
   {
     id: "scarecrow-soap",
     name: "Scarecrow Foaming Soap Holder",
-    price: 65,
+    price: 90,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A friendly harvest scarecrow with patchwork charm, just right for cosy autumn vibes. Fits Bath & Body Works foaming soap bottles.",
@@ -92,7 +92,7 @@ window.PRODUCTS = [
   {
     id: "spicy-gus-soap",
     name: "Spicy Gus the Ghost Soap Holder",
-    price: 65,
+    price: 75,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "Everyone's favourite spicy ghost, now guarding your soap. Fits Bath & Body Works foaming soap bottles.",
@@ -102,7 +102,7 @@ window.PRODUCTS = [
   {
     id: "boobees-house-decor",
     name: "Boobees Halloween House Decor",
-    price: 70,
+    price: 90,
     categories: ["Halloween", "Home Decor"],
     badge: "Spooky",
     description: "A buzzing little haunted house of ghostly bees. Playful Halloween decor for a mantel or entryway.",
@@ -122,7 +122,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 164769627: THE GRIM REAPER BBW FOAMING SOAP HOLDER
     id: "grim-reaper-soap",
     name: "Grim Reaper Soap Holder",
-    price: 65,
+    price: 90,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A cute hooded reaper with his scythe, standing guard over your sink. Fits Bath & Body Works foaming soap bottles.",
@@ -133,7 +133,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 165080331: CHUCKY BBW FOAMING SOAP HOLDER
     id: "killer-doll-soap",
     name: "Killer Doll Soap Holder",
-    price: 70,
+    price: 100,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A freckled doll in denim overalls who is definitely up to no good. Fits Bath & Body Works foaming soap bottles.",
@@ -144,7 +144,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 163830203: JASON BBW FOAMING SOAP HOLDER
     id: "hockey-mask-slasher-soap",
     name: "Hockey Mask Slasher Soap Holder",
-    price: 70,
+    price: 110,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A chibi slasher in a hockey mask. Friday the 13th has never looked this cute. Fits Bath & Body Works foaming soap bottles.",
@@ -155,7 +155,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 163273130: MICHAEL MYERS BBW FOAMING SOAP HOLDER
     id: "masked-stalker-soap",
     name: "Masked Stalker Soap Holder",
-    price: 70,
+    price: 110,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A silent pale-masked stalker in blue overalls, quietly watching over your soap. Fits Bath & Body Works foaming soap bottles.",
@@ -166,7 +166,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 164218508: FREDDY BBW FOAMING SOAP HOLDER
     id: "dream-stalker-soap",
     name: "Dream Stalker Soap Holder",
-    price: 70,
+    price: 100,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "Striped sweater, battered hat and a wicked grin. Sweet dreams at the sink. Fits Bath & Body Works foaming soap bottles.",
@@ -177,7 +177,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 162971201: GHOST FACE BBW FOAMING SOAP HOLDER
     id: "screaming-mask-soap",
     name: "Screaming Mask Soap Holder",
-    price: 70,
+    price: 100,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "The famous screaming ghost mask in a black robe, now on sink duty. Fits Bath & Body Works foaming soap bottles.",
@@ -188,7 +188,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 165598550: ART THE CLOWN BBW FOAMING SOAP HOLDER
     id: "creepy-clown-soap",
     name: "Creepy Clown Soap Holder",
-    price: 70,
+    price: 95,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A black-and-white clown with a sinister smile. Not for the faint-hearted. Fits Bath & Body Works foaming soap bottles.",
@@ -199,7 +199,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 170022361: BILLY THE PUPPET BBW FOAMING SOAP HOLDER
     id: "creepy-puppet-soap",
     name: "Creepy Puppet Soap Holder",
-    price: 70,
+    price: 105,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A pale puppet with spiral cheeks and a little red bow tie who wants to play a game. Fits Bath & Body Works foaming soap bottles.",
@@ -210,7 +210,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 169929573: WEDNESDAY ADDAMS BBW FOAMING SOAP HOLDER
     id: "gothic-girl-soap",
     name: "Gothic Schoolgirl Soap Holder",
-    price: 70,
+    price: 105,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "NEW",
     description: "A deadpan girl with black braids standing beside a tiny tombstone. Gloomy never looked so cute. Fits Bath & Body Works foaming soap bottles.",
@@ -221,7 +221,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 168064552: SAM BBW FOAMING SOAP HOLDER
     id: "sack-head-trick-or-treater-soap",
     name: "Sack Head Trick-or-Treater Soap Holder",
-    price: 70,
+    price: 110,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A little trick-or-treater with a stitched sack head and a lollipop. Always follow the rules. Fits Bath & Body Works foaming soap bottles.",
@@ -232,7 +232,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 167402628: ZERO BBW FOAMING SOAP HOLDER
     id: "ghost-pup-soap",
     name: "Ghost Pup Soap Holder",
-    price: 70,
+    price: 130,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A floaty ghost puppy with a glowing nose in front of a spooky little house. Fits Bath & Body Works foaming soap bottles.",
@@ -245,7 +245,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 168614619: THE SHRUNKEN HEAD HOUSE DECOR
     id: "shrunken-head-decor",
     name: "Shrunken Head House Decor",
-    price: 90,
+    price: 95,
     categories: ["Halloween", "Home Decor"],
     badge: "NEW",
     description: "A stitched-lip shrunken head with wild hair. Creepy-cute decor for your haunted house.",
@@ -278,7 +278,7 @@ window.PRODUCTS = [
   {
     id: "santa-sleigh-soap",
     name: "Santa's Sleigh Foaming Soap Holder",
-    price: 75,
+    price: 90,
     categories: ["Christmas", "Soap & Candle Holders"],
     badge: "Holiday",
     description: "Your soap bottle rides shotgun in Santa's sleigh. A festive centrepiece for the sink all season long. Fits Bath & Body Works foaming soap bottles.",
@@ -288,7 +288,7 @@ window.PRODUCTS = [
   {
     id: "bad-to-the-bone-santa-soap",
     name: "Bad to the Bone Santa Soap Holder",
-    price: 70,
+    price: 110,
     categories: ["Christmas", "Soap & Candle Holders"],
     badge: "NEW",
     description: "Santa with a bit of attitude, for anyone whose Christmas spirit comes with an edge. Fits Bath & Body Works foaming soap bottles.",
@@ -298,7 +298,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 170563991: RALPHIE CANDLE HOLDER
     id: "bunny-suit-kid-candle",
     name: "Pink Bunny Suit Candle Holder",
-    price: 130,
+    price: 110,
     categories: ["Christmas", "Soap & Candle Holders"],
     badge: "NEW",
     description: "A kid in the fluffiest pink bunny pyjamas, proudly holding up your candle. Fits Bath & Body Works 3-wick candles.",
@@ -310,7 +310,7 @@ window.PRODUCTS = [
   {  // source: MakerWorld: Monstera coaster Plant by Super_Laserkatz (1557600), not an Infinity design
     id: "monstera-leaf-coaster-plant",
     name: "Monstera Leaf Coaster Plant",
-    price: 120,
+    price: 145,
     categories: ["Home Bits", "Home Decor"],
     badge: "NEW",
     description: "A potted monstera whose leaves are magnetic coasters. Pluck one for your drink, snap it back and it is a plant again.",
