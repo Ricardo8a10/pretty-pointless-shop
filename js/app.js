@@ -1,6 +1,7 @@
 /* Pretty Pointless storefront. Edit js/config.js, not this file. */
 (function () {
   "use strict";
+  var AV = ((document.currentScript && document.currentScript.src) || "").split("?v=")[1] || "";
   var C = window.CONFIG, P = window.PRODUCTS || [], CATS = window.CATEGORIES || [];
 
   // Placeholder photo gradients (from the logo palette)
@@ -57,7 +58,7 @@
   P.forEach(function (p, i) {
     var photo;
     if (p.image) {
-      photo = el("div", { "class": "photo has-img" + (p.imageFit === "contain" ? " fit-contain" : "") }, [el("img", { src: p.image, alt: p.imageAlt || p.name, loading: "lazy", decoding: "async" })]);
+      photo = el("div", { "class": "photo has-img" + (p.imageFit === "contain" ? " fit-contain" : "") }, [el("img", { src: p.image + (AV ? "?v=" + AV : ""), alt: p.imageAlt || p.name, loading: "lazy", decoding: "async" })]);
     } else {
       photo = el("div", { "class": "photo placeholder", style: "background:" + GRADS[i % GRADS.length], role: "img", "aria-label": p.name + " (photo coming soon)" }, [
         el("span", { "class": "ph-name", text: p.name }),
