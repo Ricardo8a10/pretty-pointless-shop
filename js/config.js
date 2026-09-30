@@ -232,7 +232,7 @@ window.PRODUCTS = [
   {  // source: Patreon post 167402628: ZERO BBW FOAMING SOAP HOLDER
     id: "ghost-pup-soap",
     name: "Ghost Pup Soap Holder",
-    price: 130,
+    price: 110,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
     description: "A floaty ghost puppy with a glowing nose in front of a spooky little house. Fits Bath & Body Works foaming soap bottles.",
