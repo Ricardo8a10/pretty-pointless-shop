@@ -95,7 +95,7 @@ window.PRODUCTS = [
     price: 65,
     categories: ["Halloween", "Soap & Candle Holders"],
     badge: "Spooky",
-    description: "Everyone's favourite spicy ghost, now guarding your soap. Pairs perfectly with the Gus figure. Fits Bath & Body Works foaming soap bottles.",
+    description: "Everyone's favourite spicy ghost, now guarding your soap. Fits Bath & Body Works foaming soap bottles.",
     colors: ["White", "Lilac", "Black"],
     image: "assets/products/spicy-gus-soap.webp"
   },
