@@ -12,7 +12,7 @@ window.CONFIG = {
   whatsappDisplay: "+971 52 551 6208",
 
   currency: "AED",
-  deliveryNote: "Delivery across the UAE. Made to order in 3–5 days.",
+  deliveryNote: "Delivery across the UAE. Made to order in 3–5 days. Due to high demand, some items may take an extra 3–5 days.",
   paymentNote: "Cash on delivery, bank transfer or PayPal (details shared on WhatsApp).",
 
   // License credit (required by the INFINITY 3D PRINTS commercial license).
